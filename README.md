@@ -1,1 +1,1 @@
-if you read this subscribe to Se3thPlayz on youtube!
+This script is only compatible with Python no other scripting languges
